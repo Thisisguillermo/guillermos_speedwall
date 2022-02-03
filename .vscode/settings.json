@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/yamllint.json": "file:///home/guillermo/Documents/Github/MYBLOG/minimal-mistakes/minimal-mistakes/_config.yml"
+    }
+}
